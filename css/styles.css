@@ -1,0 +1,11 @@
+body {
+  background-color: #4286f4;
+}
+image.resize {
+    width: 540px;
+    height: auto;
+}
+h1 {
+  font-family: cursive;
+  text-align: center;
+}
