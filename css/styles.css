@@ -1,11 +1,16 @@
 body {
   background-color: #4286f4;
+  background-image: url("../image/flipflag2.jpg");
+  color: #063072;
 }
-image.resize {
-    width: 540px;
-    height: auto;
-}
+
 h1 {
   font-family: cursive;
   text-align: center;
+  color: yellow;
+}
+
+img{
+  width: 500px;
+  height:200px;
 }
