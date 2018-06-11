@@ -1,6 +1,9 @@
 body {
   background-color: #4286f4;
   background-image: url("../image/flipflag2.jpg");
+  background-size: cover;
+  margin-left: 2%;
+  margin-right: 5%
 }
 h1 {
   font-family: cursive;
@@ -10,4 +13,13 @@ h1 {
 img{
   width: 500px;
   height:200px;
+  border-style: solid;
+}
+
+.text-container {
+  padding: 10%;
+}
+#fiesta1 {
+  padding-left: 25%;
+
 }
