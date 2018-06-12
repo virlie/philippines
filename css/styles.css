@@ -11,15 +11,24 @@ h1 {
   color: yellow;
 }
 img{
-  width: 500px;
-  height:200px;
-  border-style: solid;
+  width: 800px;
+  height:auto;
+  padding-left: 25%;
 }
 
 .text-container {
   padding: 10%;
 }
-#fiesta1 {
-  padding-left: 25%;
+#monsoon {
+  image-orientation:25%;
+}
+#fiesta3 {
+  image-orientation: float-left;
+}
 
+#yikes {
+  text-indent: 25%;
+  font-family: fantasy;
+  font-style: italic;
+  image-resolution: snap;
 }
